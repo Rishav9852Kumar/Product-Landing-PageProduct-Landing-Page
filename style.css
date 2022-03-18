@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(43, 226, 98);
+}
+#header{
+    background-color: rgb(121, 187, 164);
+}
+#nav-bar{
+    background-color: rgb(150, 243, 43);
+}
+.nav-link{
+    background-color: aquamarine;
+}
